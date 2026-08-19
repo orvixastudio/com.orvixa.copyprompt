@@ -12,6 +12,7 @@
         "enable_dark_mode_as_default_theme": true,
         "enable_more_apps": true,
         "redirect_url": "",
+        "how_to_use": "<p>🚀 <b>How to Use CopyPrompt:</b> First, browse our gallery and pick an AI image aesthetic you love. Tap the <b>\"Generate Prompt\"</b> button to reveal the secret text formula used to create that image. Once the text appears, click <b>\"Copy Prompt\"</b> to save it to your clipboard. Next, open your favorite AI Image Generator (like ChatGPT, Gemini, Bing, or Midjourney) and paste the copied prompt to create your masterpiece! <br><br>💡 <i><b>Pro Tip:</b> Want to make it personal? Upload a reference photo of your own face into the AI tool before pasting our prompt to see yourself transform!</i></p>",
         "privacy_policy_url": "https://orvixa-studio.blogspot.com/p/privacy-policy-copyprompt.html"
     },
     "ads": {
