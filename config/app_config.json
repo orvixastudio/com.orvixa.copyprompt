@@ -20,7 +20,7 @@
         "backupAds": "none",
         "adStatus": true,
         "interstitialInterval": 3,
-        "bannerStatus": true,
+        "bannerStatus": false,
         "interstitialStatus": true,
         "nativeStatus": true,
         "rewardedStatus": false,
