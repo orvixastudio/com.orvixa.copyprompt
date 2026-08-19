@@ -1,0 +1,321 @@
+{
+    "apps": {
+        "status": true,
+        "featured_categories": "Trending, Daily, Love, Boys, Girls, Couple, Birthday, Cinematic, Funny, Portrait, Others",
+        "show_wallpaper_name": true,
+        "show_wallpaper_category": true,
+        "show_favorite_button_in_wallpaper_list": true,
+        "enable_slider_wallpaper": false,
+        "enable_rtl_mode": false,
+        "enable_exit_dialog": true,
+        "enable_vpn_access": false,
+        "enable_dark_mode_as_default_theme": true,
+        "enable_more_apps": true,
+        "redirect_url": "",
+        "privacy_policy_url": "https://orvixa-studio.blogspot.com/p/privacy-policy-copyprompt.html"
+    },
+    "ads": {
+        "mainAds": "admob",
+        "backupAds": "none",
+        "adStatus": true,
+        "interstitialInterval": 3,
+        "bannerStatus": true,
+        "interstitialStatus": true,
+        "nativeStatus": true,
+        "rewardedStatus": false,
+        "appOpenStatus": true,
+        "mainAdmobAppId": "ca-app-pub-4631404232937485~2820819587",
+        "mainAdManagerAppId": "0",
+        "mainStartappAppId": "0",
+        "mainUnityGameId": "0",
+        "mainIronsourceAppKey": "0",
+        "mainApplovinSdkKey": "0",
+        "mainBannerId": "ca-app-pub-4631404232937485/2095723403",
+        "mainInterstitialId": "ca-app-pub-4631404232937485/9782641732",
+        "mainNativeId": "ca-app-pub-4631404232937485/3701127733",
+        "mainRewardedId": "0",
+        "mainAppOpenId": "ca-app-pub-4631404232937485/4531827824",
+        "backupAdmobAppId": "0",
+        "backupAdManagerAppId": "0",
+        "backupStartappAppId": "0",
+        "backupUnityGameId": "0",
+        "backupIronsourceAppKey": "0",
+        "backupApplovinSdkKey": "0",
+        "backupBannerId": "0",
+        "backupInterstitialId": "0",
+        "backupNativeId": "0",
+        "backupRewardedId": "0",
+        "backupAppOpenId": "0"
+    },
+    "categories": [
+        {
+            "category_id": 1,
+            "category_name": "Daily",
+            "category_image": "daily.webp",
+            "prompt": "A hyper-realistic aesthetic shot of a cozy morning coffee on a modern wooden table, sunlight streaming through a window, blurred background, warm daily life aesthetic, 8k resolution, photorealistic."
+        },
+        {
+            "category_id": 2,
+            "category_name": "Love",
+            "category_image": "love.webp",
+            "prompt": "Close-up of two hands gently holding a glowing warm light shaped like a heart, soft romantic bokeh background, warm cinematic lighting, 8k resolution, highly detailed."
+        },
+        {
+            "category_id": 3,
+            "category_name": "Boys",
+            "category_image": "boys.webp",
+            "prompt": "Close-up portrait of a handsome stylish young man, wearing trendy streetwear, cool cyberpunk neon purple and cyan lighting, sharp jawline, 8k resolution, highly detailed, photorealistic."
+        },
+        {
+            "category_id": 4,
+            "category_name": "Trending",
+            "category_image": "trending.webp",
+            "prompt": "A dynamic and futuristic abstract composition glowing with vibrant neon colors, holographic aesthetic, fiery sparks, trending digital art style, high contrast, 8k resolution, masterpiece."
+        },
+        {
+            "category_id": 5,
+            "category_name": "Birthday",
+            "category_image": "birthday.webp",
+            "prompt": "A luxurious birthday celebration setup, a beautiful white frosted cake with glowing golden candles, floating pink and gold balloons, elegant festive atmosphere, cinematic studio lighting, 8k."
+        },
+        {
+            "category_id": 6,
+            "category_name": "Cinematic",
+            "category_image": "cinematic.webp",
+            "prompt": "A breathtaking cinematic wide shot of a lone figure standing in a misty moody neon-lit street, anamorphic lens flare, dramatic lighting, color grading like a movie, 8k, hyper-detailed."
+        },
+        {
+            "category_id": 7,
+            "category_name": "Girls",
+            "category_image": "girls.webp",
+            "prompt": "Ultra-realistic close-up portrait of a gorgeous young woman, flawless glowing skin, elegant fashion, soft neon rim lighting, beautiful bokeh background, 8k resolution, photography masterpiece."
+        },
+        {
+            "category_id": 8,
+            "category_name": "Funny",
+            "category_image": "funny.webp",
+            "prompt": "A hilarious and cute hyper-realistic photo of a golden retriever dog wearing oversized cool sunglasses and a neon jacket, smiling at the camera, colorful background, highly detailed, 8k."
+        },
+        {
+            "category_id": 9,
+            "category_name": "Others",
+            "category_image": "others.webp",
+            "prompt": "A surreal and creative macro shot of a glowing crystal orb reflecting a miniature galaxy inside, magical and mysterious aesthetic, dark background with soft glowing particles, 8k, photorealistic."
+        },
+        {
+            "category_id": 10,
+            "category_name": "Couple",
+            "category_image": "couple.webp",
+            "prompt": "A beautiful photorealistic silhouette of a loving couple holding hands and walking under a starry night sky with a glowing crescent moon, romantic and magical atmosphere, cinematic lighting, 8k."
+        },
+        {
+            "category_id": 11,
+            "category_name": "Portrait",
+            "category_image": "portrait.webp",
+            "prompt": "High-fashion editorial close-up portrait, stunning facial details, piercing eyes, perfect studio box lighting, dark background, sharp focus, 85mm lens, 8k resolution, hyper-photorealistic."
+        }
+    ],
+    "wallpapers": [
+        {
+            "wallpaper_id": 1,
+            "category_name": "Daily",
+            "wallpaper_name": "Prompt Art 1",
+            "wallpaper_thumbnail": "",
+            "wallpaper_url": "prompt-art-1",
+            "wallpaper_type": "static",
+            "rewarded": false,
+            "prompt": "Ultra-realistic 9:16 vertical shot, soft natural lighting, smartphone-grade sharpness, SFW. Become a little person, well-fed to the toes (photo attached, retain exact facial and body identity) lying down while holding a golden-yellow Lay's truffle chip inside a giant potato chip bag. His body rests comfortably amidst a pile of crispy, golden-yellow Lay's truffle chips. The chip bag is wide open, its interior glistening with reflective aluminum foil, while a few chips are scattered naturally on the"
+        },
+        {
+            "wallpaper_id": 2,
+            "category_name": "Love",
+            "wallpaper_name": "Prompt Art 2",
+            "wallpaper_thumbnail": "",
+            "wallpaper_url": "prompt-art-2",
+            "wallpaper_type": "static",
+            "rewarded": false,
+            "prompt": "If no reference image is provided, ask for one. UItra realistic outdoor portrait of a 5'5\\\"young man sitting on grass against a tree.He wears a brown checked shirt Over a white tee. white slim-fit pants. and white Nike sneakers (no visible SOcks). He has the same face, hairstyle, nose, and lips as the reference image. On his left wrist is a white Apple smnartwatch, and he wears a stylish mala locket. A red rose lies beside him on the grass. Soft natural lighting and blurred greenery create calm, dreamy And there's a beautiful young girl sit. Maintain the original facial expression."
+        },
+        {
+            "wallpaper_id": 3,
+            "category_name": "Boys",
+            "wallpaper_name": "Prompt Art 3",
+            "wallpaper_thumbnail": "",
+            "wallpaper_url": "prompt-art-3",
+            "wallpaper_type": "static",
+            "rewarded": false,
+            "prompt": "If no reference image is provided, ask for one. A highlv realistic photo of a young man sittina stvlishlv on an old iron staircase outside a building, wearing a loose beige red shirt, faded black cargo, print sneakers, a gold wristwatch, and round sunglasses. He is resting one elbow on the railing and the other hand on his chin in confident pose. The background shows faded concrete walls and soft cinematic lighting with a slightly warm tone. The hairstyle is neat and voluminous, similar Maintain the original facial expression."
+        },
+        {
+            "wallpaper_id": 4,
+            "category_name": "Trending",
+            "wallpaper_name": "Prompt Art 4",
+            "wallpaper_thumbnail": "",
+            "wallpaper_url": "prompt-art-4",
+            "wallpaper_type": "static",
+            "rewarded": false,
+            "prompt": "If no reference image is provided, ask for one. Generate a 4k DSLR Photography of 8K ultra-realistic cinematic portrait of a stunning young man (same person in image, exactly same facial feature and he is 6.1 feet Tall) sitting casually on large 3D letters spelling \\\"KiNG\\\" he wears a white tshirt lavered with blue denim iacket, blue jeans, dark sunglasses and white sneakers.Behind him. dramatic clouds of golden, black, pink, yellow, and white smoke burst outward against a dark backdrop. Maintain the original facial expression."
+        },
+        {
+            "wallpaper_id": 5,
+            "category_name": "Trending",
+            "wallpaper_name": "Prompt Art 5",
+            "wallpaper_thumbnail": "",
+            "wallpaper_url": "prompt-art-5",
+            "wallpaper_type": "static",
+            "rewarded": false,
+            "prompt": "If no reference image is provided, ask for one. A dvnamic shot of the exact same person from the reference image, with 1 00% identical facial features, hairstvle, and overall appearance. He is leaning casually against a dark SUV, illuminated by a subtle beam of liaht from above. He is wearing a black traditional shalwar kameez with a cream-colored shawl draped over his shoulders, and a wristwatch. Maintain the original facial expression."
+        },
+        {
+            "wallpaper_id": 6,
+            "category_name": "Trending",
+            "wallpaper_name": "Prompt Art 6",
+            "wallpaper_thumbnail": "",
+            "wallpaper_url": "prompt-art-6",
+            "wallpaper_type": "static",
+            "rewarded": false,
+            "prompt": "If no reference image is provided, ask for one. CREATE 8K ULTRA REALISTIC DSLR PORTRAIT OF A PAKISTANI POLITICIAN STANDING ON A STAGE WITH MULTIPLE NEWS CHANNEL MICROPHONES. HE IS WEARING A MAROON BLAZER OVER A WHITE KURTA SHALWAR. HE IS RAISING HIS RIGHT HAND AND POINTING TOWARDS THE AUDIENCE. THE BACKGROUND IS LIGHT AND BEAUTIFULLY BLURRED IN A CLOSE-UP SHOT. KEEP HIS FACE. HAIR. ANd BEaRd 100% THE SAME AS IN THE UPLOADED PHOTO (100% face, hair, and beard match from the uploaded photo). Maintain the original facial expression."
+        },
+        {
+            "wallpaper_id": 7,
+            "category_name": "Trending",
+            "wallpaper_name": "Prompt Art 7",
+            "wallpaper_thumbnail": "",
+            "wallpaper_url": "prompt-art-7",
+            "wallpaper_type": "static",
+            "rewarded": false,
+            "prompt": "If no reference image is provided, ask for one. Ultra-realistic double-exposure portrait of a hand some boy with modern hairstyle and face must remain 100% identical and consistent across all poses. Outfit: black shirt, gray pants, Sneakers sunglasses. Include multiple poses: full-body sitting, close-up face, and optional standing/ walking pose. Background: riverbank (nadi ke kinare) with soft sunset sky, flying birds, smooth gradient, cinematic lighting, subtle water reflections.. Maintain the original facial expression."
+        },
+        {
+            "wallpaper_id": 8,
+            "category_name": "Love",
+            "wallpaper_name": "Prompt Art 8",
+            "wallpaper_thumbnail": "",
+            "wallpaper_url": "prompt-art-8",
+            "wallpaper_type": "static",
+            "rewarded": false,
+            "prompt": "If no reference image is provided, ask for one. A hyper-realistic cinematic travel portrait of a stylish young Indian man and women (use reference face, body shape, height) leaning out of the door of a colorfu heritage train. He is vellow and dark blue a shirt over a white T-shirt, paired with beige cargo pants.She's wearing a white chudidar and white leggins. He is holding her hands balancing her and Her arms are stretched playfully as they smiles confidently enjoying the moment.keep the face accurate no changes. Maintain the original facial expression"
+        },
+        {
+            "wallpaper_id": 9,
+            "category_name": "Birthday",
+            "wallpaper_name": "Prompt Art 9",
+            "wallpaper_thumbnail": "",
+            "wallpaper_url": "prompt-art-9",
+            "wallpaper_type": "static",
+            "rewarded": false,
+            "prompt": "If no reference image is provided, ask for one. A 26-year-old Gemini woman facing the camera with a plavful smile, surrounded by neon lights in pink, purple and blue hues. She's wearing a glittery black mini dress with silver hoop earrings, holding a glowing birthday cake with neon candles. The reflection of lights on her dress and face adds a futuristic vibe. She stands confidentlv in a modern studio setup with smoke effects and sparkles around. Her makeup is bold, with shimmering eyeshadow and glossy lips The whole scene feels energetic, trendy, and fun - representing Gemini's vibrant and unpredictable nature. Maintain the original facial expression."
+        },
+        {
+            "wallpaper_id": 10,
+            "category_name": "Birthday",
+            "wallpaper_name": "Prompt Art 10",
+            "wallpaper_thumbnail": "",
+            "wallpaper_url": "prompt-art-10",
+            "wallpaper_type": "static",
+            "rewarded": false,
+            "prompt": "If no reference image is provided, ask for one. A stunning 26-year-old Gemini woman celebrating her birthday, standing gracefully and facing the camera with a confident, warm smile. She's wearing an elegant black velvet off-shoulder dress paired with long satin gloves and a delicate diamond necklace. In her hands. she holds a white frosted birthday cake topped with two sparkling golden candles. The soft golden-hour sunlight gently illuminates her face, creating a natural glow and smooth shadow on the background wall. The scene exudes elegance and calm sophistication, with subtle reflections of candlelight dancing on her dress. Background is minimalist - a warm beige wall with soft sunlight streaming through a window giving a cozy, timeless aesthetic. Her hair is sleek and straight, framing her face perfectly. The overall mood is classy cinematic, and jovful - capturing the essence of a Gemini's charm, confidence and duality - calm yet radiant, elegant yet full of life. Maintain the original facial\\r\\nexpression."
+        },
+        {
+            "wallpaper_id": 11,
+            "category_name": "Birthday",
+            "wallpaper_name": "Prompt Art 11",
+            "wallpaper_thumbnail": "",
+            "wallpaper_url": "prompt-art-11",
+            "wallpaper_type": "static",
+            "rewarded": false,
+            "prompt": "If no reference image is provided, ask for one. A 26-vear-old Gemini woman celebrating her birthday by the ocean during golden hour, facing the camera with a joyful smile. She's wearing a flowing white chiffon dress. barefoot on the sand, holdinq a small birthdav cake decorated with seashells and candles. The sunset behind her paints the sky in pink, orange and purple tones, and soft waves reflect the warm light. Her hair moves gently in the sea breeze, and her iewelry glimmers subtly. The mood feels calm, dreamy, and free - svmbolizing Gemini's love for beauty and adventure. The camera captures her full frame as she laughs naturally, embodying grace and confidence. Maintain the original facial expression."
+        },
+        {
+            "wallpaper_id": 12,
+            "category_name": "Trending",
+            "wallpaper_name": "Prompt Art 12",
+            "wallpaper_thumbnail": "",
+            "wallpaper_url": "prompt-art-12",
+            "wallpaper_type": "static",
+            "rewarded": false,
+            "prompt": "If no reference image is provided, ask for one. A cinematic urban portrait of me keeping my real face unchanged. I am standing upright, viewed from a low angle, which makes me appear taller and more dominant in the frame. Mv head is tilted slightly upward, and my gaze is directed above the camera, as if I am looking toward the light, creating a confident and thoughtful expression. My lips are closed, and my iawline is accentuated bv the lighting. My arms rest naturally by my sides, out of the main focus, keeping the pose strong and minimal. I am wearing a thick, oversized puffer jacket in a matte dark color, with a high collar that adds volume around mv neck and shoulders The jacket's fabric has a smooth, padded texture that reflects the ambient light emphasizing its structure. On mv face, I am wearing large, modern eyeglasses with a thick, dark frame, adding a bold accessory detail to the look. My hairstyle is slightly curly and voluminous, complementing the casual but stylish streetwear vibe. The background is filled with glowing neonyellow-orange light, with a large curved LED-like streak arching across behind me, creating a futuristic and dynamic atmosphere. The warm illumination casts dramatic highlights and shadows across my face and iacket, bathing the entire scene in golden tones. The camera angle is from below (low-angle shot), emphasizing perspective and strength, while framed from the chest up. The lens resembles a portrait focal length around 50-85mm keeping natural proportions but enhancing depth and intensity. Style: cinematic, urban streetwear, futuristic neon qlow, moody low-angle portrait, modern fashion photography.same face, Take Face From Uploaded image Keep same 100% Maintain\\r\\nthe original facial expression"
+        },
+        {
+            "wallpaper_id": 13,
+            "category_name": "Cinematic",
+            "wallpaper_name": "Prompt Art 13",
+            "wallpaper_thumbnail": "",
+            "wallpaper_url": "prompt-art-13",
+            "wallpaper_type": "static",
+            "rewarded": false,
+            "prompt": "If no reference image is provided, ask for one. A dvnamic shot of the exact same person from the reference image, with 1 00% identical facial features, hairstvle, and overall appearance. He is leaning casually against a dark SUV, illuminated by a subtle beam of liaht from above. He is wearing a black traditional shalwar kameez with a cream-colored shawl draped over his shoulders, and a wristwatch. Maintain the original facial expression."
+        },
+        {
+            "wallpaper_id": 14,
+            "category_name": "Trending",
+            "wallpaper_name": "Prompt Art 14",
+            "wallpaper_thumbnail": "",
+            "wallpaper_url": "prompt-art-14",
+            "wallpaper_type": "static",
+            "rewarded": false,
+            "prompt": "If no reference image is provided, ask for one. A stvlish voung man with dark, curly hair and a beard is captured in a half-body, outdoor shot. He is leaning against the dark, rough trunk of a tree and looking up slightly with his eves closed (or partially obscured by his chin). He wears small rectangular dark sunglasses, a thick silver chain necklace, and a light sage green or mint green linen-like collared shirt that is slightly unbuttoned at the neck. Maintain the original facial expression"
+        },
+        {
+            "wallpaper_id": 15,
+            "category_name": "Boys",
+            "wallpaper_name": "Prompt Art 15",
+            "wallpaper_thumbnail": "",
+            "wallpaper_url": "prompt-art-15",
+            "wallpaper_type": "static",
+            "rewarded": false,
+            "prompt": "If no reference image is provided, ask for one. A hyper-realistic 9:16 vertical cinematic portrait of a handsome young Indian man sitting on a geometric designer black chair in a minimalist high-fashion studio. He leans slightlv forward, resting his chin on one hand in a confident and introspective manner. He has wavv black hair stvled with natural volume and smooth texture. Outfit: oversized brown checkered trench coat lavered over a beige shirt paired with loose-fit black trousers and clean white sneakers for contrast. Ambient ighting is soft vet directional, creating gentle highlights on facial contours and fabric folds. The backaround is smooth gray with subtle shadows enhancing depth Capture in 8K ultra-realistic detail with studio-grade reflections, glossy floor texture, DSLR bokeh, and cinematic tones Add light flares and lens glow to enhance editorial quality. Expression calm yet powerful, as if posing for a GQ magazine cover. Maintain the original facia\\r\\nexpression."
+        },
+        {
+            "wallpaper_id": 16,
+            "category_name": "Boys",
+            "wallpaper_name": "Prompt Art 16",
+            "wallpaper_thumbnail": "",
+            "wallpaper_url": "prompt-art-16",
+            "wallpaper_type": "static",
+            "rewarded": false,
+            "prompt": "If no reference image is provided, ask for one. Create an image of a man inside a beautiful green mosque, kneeling and praying. Dress him in a black designer Pathani suit with a matching black designer Pathani coat. He should be wearing a Rolex watch. The boy is wishing 'Jummah Mubarak' to evervone, and the text 'Jummah Mubarak' should be written at the top of the image. Make his face smooth, removing all blemishes. Keep original face and hairstyle 100% reference Maintain the original facial expression."
+        },
+        {
+            "wallpaper_id": 17,
+            "category_name": "Trending",
+            "wallpaper_name": "Prompt Art 17",
+            "wallpaper_thumbnail": "",
+            "wallpaper_url": "prompt-art-17",
+            "wallpaper_type": "static",
+            "rewarded": false,
+            "prompt": "If no reference image is provided, ask for one. A fashionable man standing casually with one hand in pocket and the other resting on a guitar, facing the camera with a calm smile. Wearing a dark green shirt with rolled sleeves and light jeans Background: blue and magenta neon circular ring with golden lights around. The ground has a soft reflection, adding depth Lighting is well-balanced, highlighting facial details. hair texture. and outfit patterns. Captured in Ultra HD resolution for a professional studio vibe, Take Face From Uploaded image Keep same 100% Maintain the original facial expression."
+        },
+        {
+            "wallpaper_id": 18,
+            "category_name": "Trending",
+            "wallpaper_name": "Prompt Art 18",
+            "wallpaper_thumbnail": "",
+            "wallpaper_url": "prompt-art-18",
+            "wallpaper_type": "static",
+            "rewarded": false,
+            "prompt": "If no reference image is provided, ask for one. I am standing close to a plain wall with my body slightly turned at an angle One of my arms hangs relaxed, with my hand tucked casually into my pocket, while the other arm rests naturally by my side My head is turned gently to the side as I look awav from the camera, my expression contemplative and distant. The sunlight casts dramatic shadows, including the sharp outline of a window frame across the wall, along with the deep silhouette of my profile.l am wearing a loose, oversized dark T-shirt made of soft cotton. with a wide crew neckline. The shirt drapes naturally over my frame, reinforcing a minimalist moody stvle with no accessories or distractions. The camera captures me from a low angle, slightly below eye level, emphasizing height and presence. The focal length resembles an 85mm portrait lens, producing natural compression and cinematic proportions. The lighting is warm, directional late-afternoon sunlight illuminating part of my face and body while leaving other areas in shadow. Thefocal length resembles an 85mm portrait lens, producing natural compression and cinematic proportions. The lighting is warm, directional late-afternoon sunliqht illuminating part of my face and body while eaving other areas in shadow. The background wall is bathed in contrasting light and shadow, with visible window- frame patterns adding depth and geometry The overall mood is dark, cinematic, and atmospheric, with strong chiaroscuro contrast and a sense of stillness, mystery, and introspection, Take Face From Uploaded image Keep same 100% Maintain the original facial expression."
+        },
+        {
+            "wallpaper_id": 19,
+            "category_name": "Trending",
+            "wallpaper_name": "Prompt Art 19",
+            "wallpaper_thumbnail": "",
+            "wallpaper_url": "prompt-art-19",
+            "wallpaper_type": "static",
+            "rewarded": false,
+            "prompt": "If no reference image is provided, ask for one. A full-bodv shot of me walking forward on a dark stone pavement. seen from a high-angle perspective as if captured from above. My right leg is stepping forward while my left leg is slightly behind, creating a natural walking motion. My left hand is relaxed and swinging slightly by my side, while my right hand is bent and touching the edge of my pants pocket. My head is tilted slightlv to the left, and my eyes are looking downward in the direction 1 am walking, giving a candid, natural vibe.l am wearing a light beiqe long coat with a structured, elegant fit over a fitted dark gray turtleneck. My tailored trousers are in a medium gray tone, slim cut, slightly cropped at the ankles. On mv feet. I wear clean white sneakers that stand out against the darker pavement. The outfit has a minimalistic modern, and classy street-style aesthetic The camera angle is from above, creating a cinematic, urban look with strong lines from the pavement. The focal length resembles an 85mm portrait lens, giving a natural compression without distortion, nighlighting both the outfit and the walking pose. The lighting is soft and warm enhancing the textures of the coat and pavement, with subtle blurred foreground elements adding depth to the frame, Take Face From Uploaded image Keep same 100% Maintain the original facial\\r\\nexpression."
+        },
+        {
+            "wallpaper_id": 20,
+            "category_name": "Trending",
+            "wallpaper_name": "Prompt Art 20",
+            "wallpaper_thumbnail": "",
+            "wallpaper_url": "prompt-art-20",
+            "wallpaper_type": "static",
+            "rewarded": false,
+            "prompt": "If no reference image is provided, ask for one. A confident male model sittina cross- egged on a low stool, both hands resting on knees, looking directly at the camera. Wearing a black T-shirt, faded blue denim jacket, and white ieans. Backaround: soft turquoise neon oval light with hanging bulbs, creating a calm, modern vibe. Floor decorated with subtle mist effect and a few props like a closed guitar case. Lighting sharp on face, soft in the backdrop - Ultra HD focus highlighting every detail and texture, Take Face From Uploaded image Keep same 100% Maintain the original facial expression."
+        }
+    ],
+    "more_apps": []
+}
